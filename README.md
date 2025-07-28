@@ -39,8 +39,11 @@ Using npm:
 It will take you to steps
 
 1.```  Project name:```
+
 2. ```Package name:```
+ 
   **Note **: Here keep the projectName.json. You need to give it .json extension
+  
 3. ```Select a framework:```
 
 
