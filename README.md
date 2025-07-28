@@ -20,6 +20,8 @@ Go to your computer and in the terminal window write following git command
 ## Step 5
 
 **Create a New Vite React Project**
+Now inside the repository we will create a vite project.
+
 Vite provides a command-line interface (CLI) to quickly scaffold new projects.
 
 Open your terminal and navigate to the directory where you want to create your project.
@@ -28,7 +30,7 @@ Run the Vite create command:
 
 Using npm:
 
-npm create vite@latest
+```npm create vite@latest```
 
 It will take you to steps
 
