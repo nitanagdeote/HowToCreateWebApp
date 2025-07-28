@@ -67,3 +67,17 @@ I am selecting `React`
 
 your app is running at ```localhost port```
 
+## Lets make our first changes to the app
+Remove unnecessary information like vite logo and write someting to show up in the app.
+
+
+We need a code editor like `VScode`
+write `code.` in the folder.
+
+
+
+
+
+
+
+
