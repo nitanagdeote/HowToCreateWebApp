@@ -9,10 +9,13 @@ Step by step guide to create a web application
 ## Step 2
 1. From the github reposotory copy the SSH link
 <img width="993" height="272" alt="image" src="https://github.com/user-attachments/assets/c730b217-5a15-4f8f-ac22-eeb3016db35e" />
+
 ## Step 3
+
 Go to your computer and in the terminal window write following git command 
 
 ```git clone git@github.com:nitanagdeote/IndiaCrimeDataDashboard.git```
+
 ## Step 4
 
 ```cd repositoryName```
@@ -20,6 +23,7 @@ Go to your computer and in the terminal window write following git command
 ## Step 5
 
 **Create a New Vite React Project**
+
 Now inside the repository we will create a vite project.
 
 Vite provides a command-line interface (CLI) to quickly scaffold new projects.
