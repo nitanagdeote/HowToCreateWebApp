@@ -46,4 +46,12 @@ It will take you to steps
   
 3. ```Select a framework:```
 
+<img width="993" height="371" alt="image" src="https://github.com/user-attachments/assets/22768086-4a4b-4661-b598-68059efffa6c" />
+
+I am selecting `React` 
+Then 
+
+```Select a variant: │  TypeScript``` 
+
+
 
