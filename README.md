@@ -61,3 +61,9 @@ I am selecting `React`
 ```npm install```
 
 ```npm run dev```
+
+
+<img width="1428" height="661" alt="image" src="https://github.com/user-attachments/assets/cffaa8f1-2c23-437e-897f-7ddecd06d51d" />
+
+your app is running at ```localhost port```
+
