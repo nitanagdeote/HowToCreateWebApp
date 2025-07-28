@@ -50,7 +50,14 @@ It will take you to steps
 
 I am selecting `React` 
 
-4. ```Select a variant: │  TypeScript``` 
+4. ```Select a variant: │  TypeScript```
 
+### For Local Development 
 
+``` cd projectName``` i.e. vite project and run the fillowing commands
 
+<img width="993" height="370" alt="image" src="https://github.com/user-attachments/assets/2f2edd5a-ebcc-4859-b1fe-5aa22eb8a4de" />
+
+```npm install```
+
+```npm run dev```
